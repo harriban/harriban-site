@@ -224,7 +224,7 @@ p:last-child { margin-bottom: 0; }
   grid-template-columns: 520px 1fr;
   gap: 50px;
   align-items: start;
-  max-width: 1000px;
+  max-width: 1100px;
   margin: 0 auto;
 }
 .about-left .founder-name {
