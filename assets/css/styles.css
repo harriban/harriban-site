@@ -221,7 +221,7 @@ p:last-child { margin-bottom: 0; }
 /* ========== ABOUT PAGE ========== */
 .about-content {
   display: grid;
-  grid-template-columns: 450px 1fr;
+  grid-template-columns: 520px 1fr;
   gap: 50px;
   align-items: start;
   max-width: 1000px;
